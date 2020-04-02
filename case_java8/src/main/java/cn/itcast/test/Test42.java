@@ -4,8 +4,6 @@ import cn.itcast.n4.UnsafeAccessor;
 import lombok.extern.slf4j.Slf4j;
 import sun.misc.Unsafe;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 @Slf4j(topic = "c.Test42")
 public class Test42 {
     public static void main(String[] args) {
